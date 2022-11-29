@@ -1,0 +1,22 @@
+.post-img{
+    height: 50px;
+    overflow: hidden;
+    margin-top: 50px;
+}
+
+
+.blogcontent-left a{
+    text-decoration: none;
+}
+.blogcontent-left h1{
+    margin: 50px;
+    text-align:  center;
+}
+.blogcontent-left h2{
+    margin: 50px;
+    text-align:  center;
+}
+.blogcontent-left h3{
+    text-align-last:right;
+    margin-bottom: 40px;
+}
