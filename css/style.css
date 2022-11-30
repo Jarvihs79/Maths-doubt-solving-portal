@@ -2,7 +2,9 @@
     margin: 0;
     padding: 0;
 }
-
+body{
+    background-image: url(../img/square-img.jpg)  ;
+}
 .navigation {
     margin-top: 25px;
     font-family: var(--font1);
@@ -83,7 +85,9 @@
     width: 1000px;
 }
 
-
+.inp-form{
+    /* background-color: antiquewhite; */
+}
 
 .home-articles{
     padding: 18px;
